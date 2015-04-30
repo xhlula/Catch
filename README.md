@@ -14,3 +14,4 @@ Accepts only authorized requests based on a password known by the client.
   <input type="submit" value="Submit">
 </form>
 ```
+**Note:** fields *data* and *password* are mandatory
